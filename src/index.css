@@ -1,0 +1,40 @@
+
+
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ 
+}
+
+
+nav a{
+  margin-left: 5px;
+}
+.nav{
+ float: righ;
+}
+.footer{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.body{
+  height: 370px;
+  text-align: center;
+}
+h1{
+  font-size: 50px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+Link{
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+}
+Link:hover{
+  
+color: blue;
+
+}
